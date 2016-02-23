@@ -1,0 +1,1 @@
+Monitor your Eve-Online character's currently training skill.
